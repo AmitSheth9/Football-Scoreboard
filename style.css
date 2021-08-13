@@ -1,0 +1,18 @@
+
+
+#teams, #teamscored {
+    display: flex;
+}
+#x,#y {
+    margin-left: 30px;
+    
+}
+ #ninersscore , #hawksscore  {
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+ {
+    margin-left 100px;
+}
